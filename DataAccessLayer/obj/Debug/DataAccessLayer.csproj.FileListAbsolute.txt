@@ -1,0 +1,11 @@
+E:\OOSD(OOAD)\QuanLySinhVien\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\OOSD(OOAD)\QuanLySinhVien\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\OOSD(OOAD)\QuanLySinhVien\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\OOSD(OOAD)\QuanLySinhVien\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\OOSD(OOAD)\QuanLySinhVien\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\QuanLySinhVienOOSD-master\QuanLySinhVienOOSD-master\QuanLySinhVien\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\QuanLySinhVienOOSD-master\QuanLySinhVienOOSD-master\QuanLySinhVien\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\QuanLySinhVienOOSD-master\QuanLySinhVienOOSD-master\QuanLySinhVien\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\QuanLySinhVienOOSD-master\QuanLySinhVienOOSD-master\QuanLySinhVien\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\QuanLySinhVienOOSD-master\QuanLySinhVienOOSD-master\QuanLySinhVien\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\QuanLySinhVienOOSD-master\QuanLySinhVienOOSD-master\QuanLySinhVien\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
